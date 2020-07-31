@@ -27,7 +27,7 @@ you can make it's apk with **buildozer**
 If you want it's advanced version with awesome working of gui with file chooser system, You can contact me.
 Email: cidaneducationhub@gmail.com
 Message on : m.me/CIDanPawan    or m.me/cideduhub
-**------------------------------------------------------------------**
+
 If you realized this repo helpful for you and want to appriciate me,
 You can give a star to repo and donate me on:
 https://www.paypal.me/cideduhub
